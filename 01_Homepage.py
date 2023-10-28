@@ -1,10 +1,10 @@
 # 1. pip install streamlit Pillow
 # color @ config.toml
 
-from pathlib import Path
-import streamlit as st
-from PIL import Image
 import pandas as pd
+import streamlit as st
+from pathlib import Path
+from PIL import Image
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
