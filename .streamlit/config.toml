@@ -1,0 +1,15 @@
+[theme]
+
+# Color palette: https://colorhunt.co/palette/04364a176b8764ccc5dafffb
+
+# Primary accent color for interactive elements
+primaryColor = "#D2E0FB"
+
+# Background color for the main content area
+backgroundColor = "#04364A"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#176B87"
+
+# Color used for almost all text.
+textColor = "#FFF"
