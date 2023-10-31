@@ -23,7 +23,7 @@ DESCRIPTION = """
 """
 EMAIL = "jason.yeungch@gmail.com"
 SOCIAL_MEDIA = {
-    "Personality - Logistician (ISTJ-A)": "https://www.16personalities.com/istj-personality",
+    "🧬 Personality - Logistician (ISTJ-A)": "https://www.16personalities.com/istj-personality",
     "LinkedIn": "https://www.linkedin.com/in/jasonyeungch/",
 }
 
